@@ -1,0 +1,9 @@
+# requirements.txt
+
+streamlit
+pypdf2
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain-huggingface
